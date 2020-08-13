@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _7_4_Lab_Reality_TV_Show
+namespace _8_5_Lab_Reality_TV_Show
 {
     class BaseApplication
     {
